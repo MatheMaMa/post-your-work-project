@@ -23,7 +23,7 @@ def get_filters():
 
 
     # get user input for day of week (all, monday, tuesday, ... sunday)
-
+    print('some refactoring')
 
     print('-'*40)
     return city, month, day
